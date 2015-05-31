@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# working files
+words/
+*.db
